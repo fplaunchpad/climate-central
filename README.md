@@ -9,6 +9,7 @@
 #### Internal Docs & Notes
 
 1. [Links and Docs](links-and-docs.md) (compiled by Sanjay Karanth): full archive of every document and link shared in `#fpl-esg`, plus [`channel-files/`](channel-files/) with the actual files mirrored out of Slack.
+2. [Project objectives/outline doc](https://docs.google.com/document/d/1gbKquHlHJRJA2ESPYiaxQ68b_OasRbcTp1H-JpN6jNc/edit?tab=t.0) (Alina Banerjee).
 
 ---
 
@@ -43,12 +44,11 @@ CoRE Stack (Aaditeshwar Seth's project) is the main platform underlying FPL's cl
 1. ["FPL INTERNAL: Bugs and first issues"](https://docs.google.com/document/d/1AdriKFhdt2SkbsSQr6f9e0gQMpJjfOiMv0TPbS4y3og/edit?usp=sharing) (Aaditeshwar Seth, IIT Delhi, annotated by the FPL team): original doc of bugs and first issues.
 2. [Drought calculation math](corestack-drought-model.pdf) (Sanjay Karanth).
 3. [Alina's IIT-D visit notes](https://docs.google.com/document/d/1SsQ5lZ3Lq1r9tm6opPSps7s-8thol6pU0rAwiON7RYo) (Alina Banerjee).
-4. [Project objectives/outline doc](https://docs.google.com/document/d/1gbKquHlHJRJA2ESPYiaxQ68b_OasRbcTp1H-JpN6jNc) (Alina Banerjee).
-5. [channel-files/FPL-IITDelhi-CoreStack-Meeting-2026-05-21.md](channel-files/FPL-IITDelhi-CoreStack-Meeting-2026-05-21.md) (Alina Banerjee): meeting notes.
-6. [channel-files/gbif-biodiversity-implementation-guide.md](channel-files/gbif-biodiversity-implementation-guide.md), [channel-files/Species-Plan.md](channel-files/Species-Plan.md), [channel-files/SPECIES_CHANGE_DETECTION_FEASIBILITY.md](channel-files/SPECIES_CHANGE_DETECTION_FEASIBILITY.md), [channel-files/species-plan.pdf](channel-files/species-plan.pdf) (S Naveen): GBIF biodiversity layer work.
-7. [channel-files/CoRE-Stack-Backend-pipeline-understanding.pdf](channel-files/CoRE-Stack-Backend-pipeline-understanding.pdf) (Uttkarsh).
-8. [channel-files/CoRE-Stack-Briefing.pdf](channel-files/CoRE-Stack-Briefing.pdf) (Smayan Agarwal).
-9. [channel-files/core-stack-rag-source-inventory.md](channel-files/core-stack-rag-source-inventory.md) (Smayan Agarwal): exhaustive source list used to build the RAG.
+4. [channel-files/FPL-IITDelhi-CoreStack-Meeting-2026-05-21.md](channel-files/FPL-IITDelhi-CoreStack-Meeting-2026-05-21.md) (Alina Banerjee): meeting notes.
+5. [channel-files/gbif-biodiversity-implementation-guide.md](channel-files/gbif-biodiversity-implementation-guide.md), [channel-files/Species-Plan.md](channel-files/Species-Plan.md), [channel-files/SPECIES_CHANGE_DETECTION_FEASIBILITY.md](channel-files/SPECIES_CHANGE_DETECTION_FEASIBILITY.md), [channel-files/species-plan.pdf](channel-files/species-plan.pdf) (S Naveen): GBIF biodiversity layer work.
+6. [channel-files/CoRE-Stack-Backend-pipeline-understanding.pdf](channel-files/CoRE-Stack-Backend-pipeline-understanding.pdf) (Uttkarsh).
+7. [channel-files/CoRE-Stack-Briefing.pdf](channel-files/CoRE-Stack-Briefing.pdf) (Smayan Agarwal).
+8. [channel-files/core-stack-rag-source-inventory.md](channel-files/core-stack-rag-source-inventory.md) (Smayan Agarwal): exhaustive source list used to build the RAG.
 
 #### Project Management
 
@@ -79,4 +79,4 @@ TESSERA is Cambridge's geospatial foundation-model project (Anil Madhavapeddy's 
 
 #### Project Management
 
-1. [![#52](https://img.shields.io/badge/%2352-todo-yellow)](https://github.com/fplaunchpad/project-management/issues/52) [TESSERA notebooks](https://github.com/fplaunchpad/project-management/issues/52). Assignees: Sanjay Karanth, S Naveen.
+1. [![#52](https://img.shields.io/badge/%2352-todo-yellow)](https://github.com/fplaunchpad/project-management/issues/52) [TESSERA notebooks](https://github.com/fplaunchpad/project-management/issues/52). Assignees: Smayan Agarwal, Kaustubh Maske Patil.
