@@ -79,4 +79,4 @@ TESSERA is Cambridge's geospatial foundation-model project (Anil Madhavapeddy's 
 
 #### Project Management
 
-1. [![#52](https://img.shields.io/badge/%2352-todo-yellow)](https://github.com/fplaunchpad/project-management/issues/52) [TESSERA notebooks](https://github.com/fplaunchpad/project-management/issues/52). Assignees: Smayan Agarwal, Kaustubh Maske Patil.
+1. [![#52](https://img.shields.io/badge/%2352-in%20progress-brightgreen)](https://github.com/fplaunchpad/project-management/issues/52) [TESSERA notebooks](https://github.com/fplaunchpad/project-management/issues/52). Assignees: Smayan Agarwal, Kaustubh Maske Patil.
