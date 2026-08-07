@@ -76,14 +76,15 @@ The channel also has a pinned Slack canvas called "References/Links" (F0BBM6RDQU
 
 ## Files shared in-channel
 
-Slack file uploads, not public URLs, listed here for reference:
+Downloaded from Slack and mirrored in [`channel-files/`](channel-files/):
 
-- `core-stack-rag-source-inventory.md` — Smayan, 2026-07-20; AI-compiled inventory of every code/doc link for CoreStack
-- `CoRE-Stack-Briefing.pdf` — Smayan, 2026-07-22; LLM Q&A briefing built from the RAG
-- `corestack-reference.pdf` — Sanjay, 2026-05-26
-- `Species-Plan.md`, `SPECIES_CHANGE_DETECTION_FEASIBILITY.md`, `species plan.pdf` — S Naveen, 2026-07-01
-- `TESSERA understanding.pdf`, `CoRE Stack Backend pipeline understanding.pdf` — Uttkarsh, 2026-06-03
-- GBIF block-diagram image — S Naveen, 2026-07-20
+- [core-stack-rag-source-inventory.md](channel-files/core-stack-rag-source-inventory.md) — Smayan, 2026-07-20; AI-compiled inventory of every code/doc link for CoreStack
+- [CoRE-Stack-Briefing.pdf](channel-files/CoRE-Stack-Briefing.pdf) — Smayan, 2026-07-22; LLM Q&A briefing built from the RAG
+- [Species-Plan.md](channel-files/Species-Plan.md), [SPECIES_CHANGE_DETECTION_FEASIBILITY.md](channel-files/SPECIES_CHANGE_DETECTION_FEASIBILITY.md), [species-plan.pdf](channel-files/species-plan.pdf) — S Naveen, 2026-07-01; also references a `README.md` in the same Slack message, mirrored here as [gbif-biodiversity-implementation-guide.md](channel-files/gbif-biodiversity-implementation-guide.md) (renamed from the generic upload name to avoid colliding with the folder's own README)
+- [TESSERA-understanding.pdf](channel-files/TESSERA-understanding.pdf), [CoRE-Stack-Backend-pipeline-understanding.pdf](channel-files/CoRE-Stack-Backend-pipeline-understanding.pdf) — Uttkarsh, 2026-06-03
+- [FPL-IITDelhi-CoreStack-Meeting-2026-05-21.md](channel-files/FPL-IITDelhi-CoreStack-Meeting-2026-05-21.md) — Alina, 2026-05-21; meeting notes (found on a later pass, originally missed)
+- GBIF block-diagram whiteboard photo (S Naveen, 2026-07-20, file ID F0BK8J2Q3UY, 7.3 MB) — **not mirrored**: both the Slack bot and user tokens available lack the `files:read` scope needed to download it programmatically. View it directly in Slack, or re-upload manually if needed.
+- Note: `corestack-reference.pdf` (Sanjay, 2026-05-26) listed in an earlier pass turned out to be a mix-up with a locally-authored reference PDF from a different working session, not an actual file shared in this channel — removed from this list. It is not lost; it's tracked separately (see the FPL Launchpad memory system's `project_corestack_deep_dive` note).
 
 ## Meeting and event links
 
