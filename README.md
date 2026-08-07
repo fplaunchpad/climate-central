@@ -6,6 +6,8 @@ https://docs.google.com/document/u/1/d/1AdriKFhdt2SkbsSQr6f9e0gQMpJjfOiMv0TPbS4y
 
 [Drought calculation math](corestack-drought-model.pdf)
 
+See [Links and Docs](links-and-docs.md) for a full archive of every resource shared in #fpl-esg.
+
 ## CoRE Stack
 
 CoRE Stack (Aaditeshwar Seth's project) is the main platform underlying FPL's climate/ESG work. Code lives across two orgs: `core-stack-org` (upstream) and `fplaunchpad` (FPL's contributions).
