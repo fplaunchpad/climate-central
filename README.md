@@ -10,7 +10,7 @@ https://docs.google.com/document/u/1/d/1AdriKFhdt2SkbsSQr6f9e0gQMpJjfOiMv0TPbS4y
 
 CoRE Stack (Aaditeshwar Seth's project) is the main platform underlying FPL's climate/ESG work. Code lives across two orgs: `core-stack-org` (upstream) and `fplaunchpad` (FPL's contributions).
 
-- **Backend**: [core-stack-org/core-stack-backend](https://github.com/core-stack-org/core-stack-backend) — Django app that computes layers (LULC, drought, hydrology, etc.), serves the API, and orchestrates GEE/GeoServer.
+- **Backend**: [core-stack-org/core-stack-backend](https://github.com/core-stack-org/core-stack-backend) — Django app that computes layers (LULC, drought, hydrology, etc.), serves the API, and orchestrates GEE/GeoServer. FPL fork: [fplaunchpad/core-stack-backend](https://github.com/fplaunchpad/core-stack-backend).
 - **Frontend**: [core-stack-org/landscape-explorer](https://github.com/core-stack-org/landscape-explorer) — React + OpenLayers app for viewing layers.
 - **Mobile**: [core-stack-org/Commons-Connect](https://github.com/core-stack-org/Commons-Connect) — Vite/React app for watershed planning, run inside a Flutter WebView.
 
