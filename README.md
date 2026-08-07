@@ -1,4 +1,4 @@
-# climater-docs
+# climate-docs
 Main page for Climate related projects: Info and study material on Tessera, Corestack etc
 
 Bugs and First Issues from Aadi Seth:
