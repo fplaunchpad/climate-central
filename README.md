@@ -89,6 +89,7 @@ TESSERA is Cambridge's geospatial foundation-model project (Anil Madhavapeddy's 
 #### Internal Docs & Notes
 
 1. [channel-files/TESSERA-understanding.pdf](channel-files/TESSERA-understanding.pdf) (Uttkarsh).
+2. [geotessera/README.md](geotessera/README.md) (Smayan Agarwal): learning resource documenting the process of getting started with GeoTessera.
 
 #### Project Management
 
