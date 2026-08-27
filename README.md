@@ -15,7 +15,7 @@
 
 ## Other Prospective Collaborators (exploratory)
 
-[channel-files/other-collaborators.md](channel-files/other-collaborators.md): environment/public-tech collaborators surfaced beyond CoreStack and TESSERA (PDGI, SAFAR India, IIT Bombay Climate Studies, a Frappe-like public-tech platform idea), not yet tied to a project-management issue.
+[other-collaborators.md](other-collaborators.md): environment/public-tech collaborators surfaced beyond CoreStack and TESSERA (PDGI, SAFAR India, IIT Bombay Climate Studies, a Frappe-like public-tech platform idea), not yet tied to a project-management issue.
 
 ---
 
@@ -76,7 +76,7 @@ TESSERA is Cambridge's geospatial foundation-model project (Anil Madhavapeddy's 
 #### Official Documentation
 
 1. [TESSERA paper](https://arxiv.org/abs/2506.20380) (ucam-eo, University of Cambridge).
-2. [channel-files/tessera-benchmarks.md](channel-files/tessera-benchmarks.md): TESSERA applications paper — 5 downstream benchmarks and why they matter.
+2. [tessera-benchmarks.md](tessera-benchmarks.md): TESSERA applications paper — 5 downstream benchmarks and why they matter.
 3. [geotessera issue #314](https://github.com/ucam-eo/geotessera/issues/314) (ucam-eo community).
 4. [eeg.zulipchat.com](https://eeg.zulipchat.com/login/) (Cambridge EEG group).
 
