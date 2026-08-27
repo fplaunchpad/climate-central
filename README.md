@@ -83,7 +83,7 @@ TESSERA is Cambridge's geospatial foundation-model project (Anil Madhavapeddy's 
 #### Official Documentation
 
 1. [TESSERA paper](https://arxiv.org/abs/2506.20380) (ucam-eo, University of Cambridge).
-2. [Applications of the TESSERA Geospatial Foundation Model to Diverse Environmental Mapping Tasks](https://anil.recoil.org/papers/2025-tessera-tasks) (Anil Madhavapeddy et al.): evaluates TESSERA across 5 downstream benchmarks — crop type classification (Austria), wildfire burn area detection (California), canopy height estimation (Bornean tropical rainforests), above-ground biomass prediction (Finnish forests), and carbon market stocking indices (Brazilian agroforestry). See the paper for why each benchmark matters to climate scientists, policymakers, and other stakeholders in that domain.
+2. [channel-files/tessera-benchmarks.md](channel-files/tessera-benchmarks.md): TESSERA applications paper — 5 downstream benchmarks and why they matter.
 3. [geotessera issue #314](https://github.com/ucam-eo/geotessera/issues/314) (ucam-eo community).
 4. [eeg.zulipchat.com](https://eeg.zulipchat.com/login/) (Cambridge EEG group).
 
