@@ -42,7 +42,7 @@ CoRE Stack (Aaditeshwar Seth's project) is the main platform underlying FPL's cl
 #### Internal Repo
 
 1. [fplaunchpad/core-stack-backend](https://github.com/fplaunchpad/core-stack-backend) (fplaunchpad, fork of core-stack-org/core-stack-backend): FPL's working fork, incl. [wiki](https://github.com/fplaunchpad/core-stack-backend/wiki).
-2. [fplaunchpad/fpl-core-stack](https://github.com/fplaunchpad/fpl-core-stack) (fplaunchpad, primarily Sanjay Karanth): joint FPL/CoreStack planning and coordination repo, not a fork.
+2. [corestack-old/](corestack-old/) (primarily Sanjay Karanth and S Naveen): retired joint FPL/CoreStack planning and coordination content, imported from the now-deleted `fplaunchpad/fpl-core-stack` repo. Includes the first-meeting notes with Aadi Seth, the May 2026 roadmap (`project.md` + `core-stack-2.0.pptx`), and S Naveen's reference/glossary notes.
 3. [fplaunchpad/corestack-rag](https://github.com/fplaunchpad/corestack-rag) (fplaunchpad, Smayan Agarwal): RAG over the CoreStack codebase and docs.
 
 #### Internal Docs & Notes
