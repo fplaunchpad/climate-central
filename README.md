@@ -47,7 +47,7 @@ CoRE Stack (Aaditeshwar Seth's project) is the main platform underlying FPL's cl
 
 #### Internal Docs & Notes
 
-1. [corestack-goals.md](corestack-goals.md): faithful record of CoreStack's goals, technical asks, and roadmap, drawn from FPL↔Aadi Seth email threads plus the archived `fpl-core-stack` roadmap.
+1. [corestack-needs-and-goals.md](corestack-needs-and-goals.md): faithful record of CoreStack's goals, technical asks, and roadmap, drawn from FPL↔Aadi Seth email threads, the roadmap deck, Aadi's "Bugs and first issues" doc, and the archived `fpl-core-stack` roadmap.
 2. ["FPL INTERNAL: Bugs and first issues"](https://docs.google.com/document/d/1AdriKFhdt2SkbsSQr6f9e0gQMpJjfOiMv0TPbS4y3og/edit?usp=sharing) (Aaditeshwar Seth, IIT Delhi, annotated by the FPL team): original doc of bugs and first issues.
 4. [Drought calculation math](corestack-drought-model.pdf) (Sanjay Karanth).
 5. [Alina's IIT-D visit notes](https://docs.google.com/document/d/1SsQ5lZ3Lq1r9tm6opPSps7s-8thol6pU0rAwiON7RYo) (Alina Banerjee).
