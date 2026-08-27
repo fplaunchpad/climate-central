@@ -6,6 +6,7 @@
 
 1. [Project objectives/outline doc](https://docs.google.com/document/d/1gbKquHlHJRJA2ESPYiaxQ68b_OasRbcTp1H-JpN6jNc/edit?tab=t.0) (Alina Banerjee).
 2. [Links and Docs](links-and-docs.md) (compiled by Sanjay Karanth): full archive of every document and link shared in `#fpl-esg`, plus [`channel-files/`](channel-files/) with the actual files mirrored out of Slack.
+3. [ideas.md](ideas.md): ambitious/speculative directions raised in `#fpl-esg` (data provenance tracking, code repetition detection, and others), not yet scoped as project-management issues.
 
 #### Project Management
 
